@@ -25,6 +25,6 @@ jobs:
 
       - name: Generate PAC File
         run: |
-          ls
-          cat ./pac/config.ini
-          # genpac --config-from=./pac/config.ini
+          pwd
+          cat ./config.ini
+          genpac --config-from=./config.ini
