@@ -3,7 +3,7 @@ name: Generate PAC File
 on: [push]
 
 jobs:
-  build:
+  generate:
     name: Generate PAC File
 
     runs-on: ubuntu-latest
@@ -25,3 +25,10 @@ jobs:
 
       - name: Generate PAC File
         run: genpac --config-from=./config.ini
+      
+      - name: Commit and Push
+        if: ${{ success() }}
+        run: |
+          git add pac.txt gfwlist.txt
+          git commit -m 'feat: GitHub Actions Commit'
+          git push
