@@ -24,4 +24,4 @@ jobs:
           pip install -U genpac
 
       - name: Generate PAC File
-        run: genpac --config-from=./config.ini
+        run: genpac --config-from=/home/runner/work/pac/pac/config.ini
