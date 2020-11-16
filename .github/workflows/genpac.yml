@@ -32,5 +32,5 @@ jobs:
           git config --global user.email "hihanley@outlook.com"
           git config --global user.name "Hanley"
           git add pac.txt gfwlist.txt
-          git commit -m 'feat: GitHub Actions Commit'
+          git commit -m 'CI: GitHub Actions Commit'
           git push
