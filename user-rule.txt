@@ -5,3 +5,4 @@
 ||fontawesome.com
 ||bizible.com
 ||lookbookhq.com
+||cncf.io
