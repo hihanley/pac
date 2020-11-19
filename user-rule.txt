@@ -2,3 +2,6 @@
 ||docker.com
 ||live.com
 ||opentelemetry.io
+||fontawesome.com
+||bizible.com
+||lookbookhq.com
