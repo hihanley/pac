@@ -7,3 +7,4 @@
 ||lookbookhq.com
 ||cncf.io
 ||windows.net
+||jetbrains.com
