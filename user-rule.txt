@@ -6,3 +6,4 @@
 ||bizible.com
 ||lookbookhq.com
 ||cncf.io
+||windows.net
