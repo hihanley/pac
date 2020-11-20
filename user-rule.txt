@@ -8,3 +8,4 @@
 ||cncf.io
 ||windows.net
 ||jetbrains.com
+||quay.io
