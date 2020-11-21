@@ -9,3 +9,4 @@
 ||windows.net
 ||jetbrains.com
 ||quay.io
+||fullstackopen.com
