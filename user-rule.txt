@@ -10,4 +10,7 @@
 ||jetbrains.com
 ||quay.io
 ||fullstackopen.com
-||unsplash.com	
+||unsplash.com
+||yahoosandbox.com
+||skype.com
+||microsoft.com
