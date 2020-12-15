@@ -14,3 +14,4 @@
 ||yahoosandbox.com
 ||skype.com
 ||microsoft.com
+||keepassxc.org
