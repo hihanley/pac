@@ -30,7 +30,7 @@ jobs:
         if: ${{ success() }}
         run: |
           git config --global user.email "hihanley@outlook.com"
-          git config --global user.name "Hanley"
+          git config --global user.name "hanley"
           git add pac.txt gfwlist.txt
           git commit -m 'CI: GitHub Actions Commit'
           git push
