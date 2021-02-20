@@ -16,3 +16,4 @@
 ||microsoft.com
 ||keepassxc.org
 ||yarnpkg.com
+||traefik.io
