@@ -17,3 +17,4 @@
 ||keepassxc.org
 ||yarnpkg.com
 ||traefik.io
+||gravatar.com
